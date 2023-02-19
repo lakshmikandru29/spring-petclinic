@@ -158,3 +158,4 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 some change is occured from my local repo 
 
 testing jenkins connection with my local gitrepo in declarative pipiline
+testing jenkins connection with my local gitrepo in declarative pipiline2
