@@ -159,3 +159,5 @@ some change is occured from my local repo
 
 testing jenkins connection with my local gitrepo in declarative pipiline
 testing jenkins connection with my local gitrepo in declarative pipiline2
+
+testing declrativ ethrough jenkinsfile!!if there is change does it creates automatic build or not ?
